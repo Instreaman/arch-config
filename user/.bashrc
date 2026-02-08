@@ -38,6 +38,19 @@ bind "set completion-ignore-case on"
 
 alias update='sudo pacman -Syu'
 alias yay='paru'
+paru() {
+  /usr/bin/paru "$@"
+
+  local ret=$?
+
+  if [ $ret -eq 0 ]; then
+    pacman -Qqe >~/Documents/arch-config/pkglist.txt
+
+    echo ":: Package list updated to ~/Documents/arch-config/pkglist.txt"
+  fi
+
+  return $ret
+}
 alias vim='nvim'
 alias ls='eza --icons --grid'
 alias ll='eza --icons --long --all --group-directories-first --git'
