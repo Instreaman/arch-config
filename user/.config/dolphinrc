@@ -1,0 +1,26 @@
+[ContentDisplay]
+UsePermissionsFormat=CombinedFormat
+
+[ExtractDialog]
+2 screens: Height=480
+2 screens: Width=833
+
+[General]
+OpenExternallyCalledFolderInNewTab=true
+RememberOpenedTabs=false
+ShowFullPathInTitlebar=true
+SortingChoice=CaseInsensitiveSorting
+SplitView=true
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2025,12,29,18,41,56.421
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,glycin-heif,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,glycin-image-rs,glycin-jxl,jpegthumbnail,kraorathumbnail,windowsimagethumbnail,windowsexethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,glycin-svg,svgthumbnail,cursorthumbnail,imagethumbnail,fontthumbnail,directorythumbnail,ffmpegthumbs,audiothumbnail

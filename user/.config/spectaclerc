@@ -1,0 +1,16 @@
+[Annotations]
+rectangleStrokeColor=255,0,0
+textFont=霞鹜文楷等宽 GB 屏幕阅读版,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+textFontColor=255,43,0
+
+[General]
+autoSaveImage=true
+printKeyRunningAction=StartNewInstance
+
+[ImageSave]
+imageFilenameTemplate=Screenshots_<title>_<yy><MM><dd><HH><mm><ss>
+lastImageSaveLocation=file:///home/instreaman/Pictures/Screenshots/Screenshots_2602080001.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

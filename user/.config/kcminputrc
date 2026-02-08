@@ -1,0 +1,7 @@
+[Libinput][10182][489][GXTP5100:00 27C6:01E9]
+Enabled=true
+NaturalScroll=true
+ScrollFactor=0.75
+
+[Mouse]
+cursorTheme=WhiteSur-cursors
